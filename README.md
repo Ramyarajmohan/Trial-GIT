@@ -8,4 +8,3 @@ First learn to try,then type and u can get some results!
 Yeah!Yahooooo!My command lines are crt!
 ##Work_done
 Now the work is done, u can take_rest!
-Its a very good news!!
